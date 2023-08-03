@@ -1,0 +1,70 @@
+---
+title: "סיור ברחוב הרצוג - 4.8.23"
+author: "עדו קליין"
+format: 
+  html:
+    dir: rtl
+    code-fold: true
+editor: visual
+css: style.css
+---
+
+## תחנה ראשונה: בין עזה לברלין
+
+[![צילומי חיל האוויר הגרמני, 1917](images/1734.jpg)](https://ccg.huji.ac.il/aerialphotos/photos/Aerial_2/German_Fl_304/1734.jpg)
+
+```{=html}
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219972.15,630896.33&z=2&b=7' > </iframe>
+```
+::: rotate-img
+[![צילום אוויר משנת 1945](images/5104.jpg)](https://ccg.huji.ac.il/aerialphotos/photos/Aerial_4/PS_Small/PS20/5104.jpg)
+:::
+
+[![טיול משפחתי סמוך לרחביה, 1945](images/14853163_1705481349770071_2005370311273415432_o.png){fig-alt="נחום טים גידל"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1705481349770071/)
+
+## תחנה שנייה: צומת הזז
+
+[![מבט מרחוב הטייסים אל רחביה, 1950](images/12193661_1516320528686155_5575245830323821643_n.jpg)](https://www.facebook.com/photo/?fbid=1516320528686155&set=a.1490591467925728)
+
+[![פילבוקס רחביה, שנות ה60](images/94978447_2590579671260230_4302080049604984832_n.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/2590579664593564/)
+
+## תחנה שלישית: ניות
+
+![]()
+
+[![שכונת ניות זמן קצר אחרי בנייתה - שנות ה-1960](images/94883730_2590781214573409_4891612363075092480_n.jpg)](https://www.facebook.com/alhamakom/posts/pfbid02ApchsUVFyjbThw9mQbf15XrwM8yBykNNQHFMKgHTpvQB23i1BPhCKQa1QP3ddSV5l)
+
+[![תמונה מבית רינה נקובה, 1969](images/12111917_1513067315678143_313932795066804902_n.jpg){fig-alt="צבי אורון"}](https://www.facebook.com/alhamakom/posts/pfbid07y491TD614EYBtkwNQFbpxvcXCwqTfMjAMeyWEEWeBVxx237XpktqDrtcaD1X5mol)
+
+[![רח' הרצוג ומעליו רח' טשרנחובסקי, 1964](images/249864208_3032931250358401_7390807374540006101_n.jpg){fig-alt="משה (מרלן) לוין אוסף מיתר"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/3032931253691734/)
+
+## תחנה רביעית: צומת ניות
+```{=html}
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219448.85,630491.38&z=3&b=7' > </iframe>
+```
+
+## תחנה חמישית: מול מדרגות שנער
+
+[![שיכון רסקו, 1951.](images/12027218_1498916303759911_2622112065715137875_o.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1498916303759911/)
+
+[![בניית כביש הרצוג, שנות ה70](images/12119192_1511726389145569_218496302379485098_n.jpg)](https://www.facebook.com/photo/?fbid=1511726389145569&set=pcb.1511745175810357)
+
+## תחנה שישית: צומת סולם יעקב
+
+[![שמעוני 48, 1963](images/14330102_1674004619584411_4802734487961036624_n.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1674004619584411/)
+
+## תחנה שביעית: זירת התאונה
+
+[![תאונת הדרכים ברחוב הרב הרצוג בגבעת מרדכי](images/Bku0i4T5h_0_0_640_360_0_large.png){fig-alt="(צילום: תיעוד מבצעי מד\"א)"}](https://jerusalem.mynet.co.il/local_news/article/b1hws4pqn)
+
+![](images/HJhe3VTcn_0_0_2048_1536_0_large.jpg)
+
+## תחנה שמינית: בית הנוער העברי
+
+[![בית הנוער העברי, 1968](images/16251933_1754052514912954_3850712775828282121_o.jpg){fig-alt="אוסף אלכסנדר פרידמן (האדריכל)"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1754052514912954/)
+
+## תחנה תשיעית: מחלף פת וסיכום
+
+[![קטמון ט, 1968](images/11904749_1492257441092464_7451189464270408324_n.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1492257441092464/)
+
+[![צומת פת, שנות ה-80](images/886214_1540688922915982_1861906541522812876_o.jpg){fig-alt="דוד חריס"}](https://www.facebook.com/photo/?fbid=1540688922915982&set=pcb.1540694082915466)
