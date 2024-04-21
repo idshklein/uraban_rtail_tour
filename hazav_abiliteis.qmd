@@ -1,0 +1,18 @@
+---
+title: "הדגמת יכולות של חצב"
+author: "עדו קליין"
+format: 
+  html:
+    dir: rtl
+    code-fold: true
+---
+
+## קו ירוק-סגול ליד הבית של עדו
+```{=html}
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://geo.mot.gov.il/?z=7&layers=LRT_LINE,LRT_STAT&x=219069.1823946619&y=629387.4011690974&bgval=0' > </iframe>
+```
+
+## נתיבי העדפה ליד הבית של עדו
+```{=html}
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://geo.mot.gov.il/?z=7&layers=NATAZ_PLANNED&x=219069.1823946619&y=629387.4011690974&bgval=0' > </iframe>
+```
