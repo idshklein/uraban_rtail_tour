@@ -1,0 +1,55 @@
+---
+title: "הליכות ג'יין ירושלים 2024"
+format: 
+  html:
+    dir: rtl
+    code-fold: true
+engine: knitr
+css: style.css
+---
+
+```{r}
+#| echo: false
+pacman::p_load(tidyverse,DT)
+
+day1 = read_csv("day1.csv", col_types = cols()) %>%  
+select(`שם הסיור` = summary,
+`תיאור`= description,
+`שעת התחלה` = start,
+`משך הסיור` = dur)  %>%  
+arrange(`שעת התחלה`)
+day2 = read_csv("day2.csv", col_types = cols())%>%  
+select(`שם הסיור` = summary,
+`תיאור`= description,
+`שעת התחלה` = start,
+`משך הסיור` = dur)%>%  
+arrange(`שעת התחלה`)
+day3 = read_csv("day3.csv", col_types = cols())%>%  
+select(`שם הסיור` = summary,
+`תיאור`= description,
+`שעת התחלה` = start,
+`משך הסיור` = dur)%>%  
+arrange(`שעת התחלה`)
+```
+
+::: {.panel-tabset}
+## יום חמישי, 2.5.24
+```{r}
+#| echo: false
+DT::datatable(day1,rownames = F, options = list(dom = 't',columnDefs = list(list(className = 'dt-center', targets = "_all"))))
+```
+
+## יום שישי, 3.5.24
+
+```{r}
+#| echo: false
+DT::datatable(day2,rownames = F, options = list(dom = 't',columnDefs = list(list(className = 'dt-center', targets = "_all"))))
+```
+
+## יום שבת, 4.5.24
+
+```{r}
+#| echo: false
+DT::datatable(day3,rownames = F, options = list(dom = 't',columnDefs = list(list(className = 'dt-center', targets = "_all"))))
+```
+:::
