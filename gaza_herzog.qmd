@@ -12,18 +12,58 @@ css: style.css
 ---
 
 ## צומת 1: כיכר צרפת - משמעות רחוב עזה לעיר כיום. מהי כיכר?
+
+### מפה מ1926
+
+```{=html}
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='200vw' src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=220685.26,631399.66&z=4&b=7' > </iframe>
+```
+```{=html}
+<blockquote class="twitter-tweet"><p lang="iw" dir="rtl">לא הייתי מודע להיסטוריה התחבורתית של כיכר צרפת. מעניין מאוד, ומה שיותר מעניין זה מי תיעד ברמה כזאת והאם הוא עשה את זה לסמינר <a href="https://t.co/TgdvSUQ8Rf">https://t.co/TgdvSUQ8Rf</a> <a href="https://t.co/tjKLr7LqUX">pic.twitter.com/tjKLr7LqUX</a></p>&mdash; Ido Klein עדו קליין (@idoklein1) <a href="https://twitter.com/idoklein1/status/1752748985431789704?ref_src=twsrc%5Etfw">January 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 ## צומת 2: בלפור בן מימון - הפספוס של בלפור
-## צומת 3: ארלוזורוב - נתצ בעזה 
-## צומת 4: ראבד - האם מעבר הולכי רגל נחשב
+
+```{=html}
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=35.21496087312699%2C31.772624744228477%2C35.21850138902665%2C31.774576630382565&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+```
+[![מפה תיירותית של ירושלים, 1949](images/paste-3.png){fig-alt="אוסף המפות ע\"ש ערן לאור"}](https://www.nli.org.il/he/maps/NNL_MAPS_JER997011935876305171/NLI#$FL201234811)
+
+## צומת 3: ארלוזורוב - נתצ בעזה?
+
+![מפת תחבורה 1961, התקבלה אצלי על ידי אליעד באבד](images/paste-1.png)
+
+![תקריב לאיזור שלנו](images/paste-2.png)
+
+[![](images/paste-7.png)](תרשים%20לדוגמא)
+
+## צומת 4: ראבד - האם מעבר הולכי רגל נחשב כצומת?
+
+[![](images/paste-5.png)](https://www.gov.il/BlobFolder/reports/urban_space_national_strategic_plan_sustainable_movement/he/documents_tichnun_ironi_urban_space_national_strategic_plan_sustainable_movement.pdf#page=110)
+
+![צמתים נמדדים, מתוך תוכנית אסטרטגית לאומית לתנועה מקיימת במרחב העירוני, משרד השיכון, 2019](images/paste-6.png)
+
 ## צומת 5: רדק - תשתיות אופניים טקטיות
-## צומת 6: הארי מטודלה - איסורי פנייה ככלי עירוני
-## צומת 7: גינת ביבי - ?
-## צומת 8: ברלין - רכבת + שינוי מדרג הרחוב. משמעות בעבר
+
+[![מתוך הנחיות "תנועת אופניים" בסדרה הירוקה, עמוד 140](images/paste-4.png)](https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/tnuat_ofnaim.pdf#page=140)
+
+## צומת 6: האר"י מטודלה - איסורי פניות ותחביר המרחב
+
+```{=html}
+<iframe width="425" height="350" src="https://overpass-turbo.eu/map.html?Q=%0Arelation%282880719%29%3B%0A%0Aout+geom+meta%3B%0A%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D" style="border: 1px solid black">
+
+</iframe>
+```
+```{=html}
+<blockquote class="twitter-tweet"><p lang="iw" dir="rtl">בעזה, הפנייה שמאלה מהזז אל עזה + איסור הפניות שמאלה במטודלה מגלמים בתוכם את הרמיסה של התנועות המקומיות + הגישה לשכונה ברכב פרטי של תושבי רחביה. <a href="https://t.co/BYJIdpspER">pic.twitter.com/BYJIdpspER</a></p>&mdash; Ido Klein עדו קליין (@idoklein1) <a href="https://twitter.com/idoklein1/status/1758111592758038575?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+## צומת 7: גינת ביבי - האם רחוב נפרד?
+
+## צומת 8: שינוי שם הרחוב + רכבת + שינוי מדרג הרחוב. משמעות בעבר
 
 [![צילומי חיל האוויר הגרמני, 1917](images/1734.jpg)](https://ccg.huji.ac.il/aerialphotos/photos/Aerial_2/German_Fl_304/1734.jpg)
 
 ```{=html}
-  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219972.15,630896.33&z=2&b=7' > </iframe>
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='200vw' src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219972.15,630896.33&z=4&b=7' > </iframe>
 ```
 ::: rotate-img
 [![צילום אוויר משנת 1945](images/5104.jpg)](https://ccg.huji.ac.il/aerialphotos/photos/Aerial_4/PS_Small/PS20/5104.jpg)
@@ -31,13 +71,17 @@ css: style.css
 
 [![טיול משפחתי סמוך לרחביה, 1945](images/14853163_1705481349770071_2005370311273415432_o.png){fig-alt="נחום טים גידל"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1705481349770071/)
 
-## צומת 9: התיבונים - טעות תכנונית או שינוי שהיה נצרך 
+## צומת 9: התיבונים - טעות תכנונית או שינוי שהיה נצרך
 
-## צומת 10: מצלבה - מהסיור הקודם וכן הלאה. משמעות היום ובעבר
+## צומת 10: צומת המצלבה - משמעות היום ובעבר
+
 [![מבט מרחוב הטייסים אל רחביה, 1950](images/12193661_1516320528686155_5575245830323821643_n.jpg)](https://www.facebook.com/photo/?fbid=1516320528686155&set=a.1490591467925728)
 
 [![פילבוקס רחביה, שנות ה60](images/94978447_2590579671260230_4302080049604984832_n.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/2590579664593564/)
 
+```{=html}
+<blockquote class="twitter-tweet"><p lang="iw" dir="rtl">צומת המצלבה. עובר שם מדי יום וכמעט לא ראיתי רכב שפונה ימינה מטשרניחובסקי לעזה. ואכן, ספירות תנועה מראות שמדובר ב-283 רכבים ביום (=כלום ושום דבר). זה אומר שאין שום סיבה להשאיר שם נתיב ימינה חופשי - אפשר היה להרחיב את המדרכה ואולי גם את הגינה הסמוכה. אבל מה הסיכוי.<a href="https://twitter.com/Jlm_city?ref_src=twsrc%5Etfw">@Jlm_city</a> <a href="https://t.co/BpEdoopcfh">pic.twitter.com/BpEdoopcfh</a></p>&mdash; איתמר שחר 🎗️ (@itamar_sh) <a href="https://twitter.com/itamar_sh/status/1758048392200999061?ref_src=twsrc%5Etfw">February 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 ## צומת 11: מדרגות מול ניות
 
 [![שכונת ניות זמן קצר אחרי בנייתה - שנות ה-1960](images/94883730_2590781214573409_4891612363075092480_n.jpg)](https://www.facebook.com/alhamakom/posts/pfbid02ApchsUVFyjbThw9mQbf15XrwM8yBykNNQHFMKgHTpvQB23i1BPhCKQa1QP3ddSV5l)
@@ -46,21 +90,31 @@ css: style.css
 
 [![רח' הרצוג ומעליו רח' טשרנחובסקי, 1964](images/249864208_3032931250358401_7390807374540006101_n.jpg){fig-alt="משה (מרלן) לוין אוסף מיתר"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/3032931253691734/)
 
+[![מתוך הנחיות "הולכי רגל" מהסדרה הירוקה, עמוד 115. המרחק בין צומת המצלבה לצומת ניות - 530 מטרים](images/paste-10.png)](https://www.gov.il/BlobFolder/policy/guidelines_street_planning_cities/he/holchey_regel_2020.pdf#page=116)
+
 ## צומת 12: צומת ניות
 
 ```{=html}
-  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='450px' height='350px'src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219448.85,630491.38&z=3&b=7' > </iframe>
+  <iframe id='ifrMap' frameborder= '0' scrolling= 'no' marginheight= '0' marginwidth= '0' width='200vw'src= 'https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219448.85,630491.38&z=3&b=7' > </iframe>
 ```
-
 ## צומת 13: חיבה
 
 [![שיכון רסקו, 1951.](images/12027218_1498916303759911_2622112065715137875_o.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1498916303759911/)
 
 [![בניית כביש הרצוג, שנות ה70](images/12119192_1511726389145569_218496302379485098_n.jpg)](https://www.facebook.com/photo/?fbid=1511726389145569&set=pcb.1511745175810357)
 
+```{=html}
+<blockquote class="twitter-tweet"><p lang="iw" dir="rtl">למשל הפנינה המדהימה הזאת - פעם שמעוני לא היה מחובר בכלל להרצוג. שמעוני היה מחובר דרך &quot;מעבר ולירו&quot;, כפי שזקני השכונה מכירים אותו כ&quot;כביש הסגור&quot; בגלל בעלות פרטית. הגישה אל ולירו הייתה באמצעות רחוב שלא קיים היום. הצהוב אינו נתיב זהרה. <a href="https://t.co/y7zypgfPBj">pic.twitter.com/y7zypgfPBj</a></p>&mdash; Ido Klein עדו קליין (@idoklein1) <a href="https://twitter.com/idoklein1/status/1686463736377180162?ref_src=twsrc%5Etfw">August 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 ## צומת 14: אל מול המשך 16 - מאבק איתמר
 
-להוסיף תמונה של המשך 16
+[![](images/paste-8.png)](https://www.facebook.com/groups/112814595424699?multi_permalinks=2834792476560217)
+
+![תכנית במצב מוצע (למעלה) וקיים (למטה)](images/paste-9.png)
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="iw" dir="rtl">למה? יש שיגידו בגלל הכביש שירות, אבל הסיבה היא ככל הנראה כי אין אפשרות לייצר תחנה מקבילה - אי אפשר לעשות גשר מעבר לכביש (כאילו אפשר אבל זה יקר). <a href="https://t.co/g5fYabKCvM">pic.twitter.com/g5fYabKCvM</a></p>&mdash; Ido Klein עדו קליין (@idoklein1) <a href="https://twitter.com/idoklein1/status/1362506891017007106?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 
 ## צומת 15: סולם יעקב
 
@@ -70,7 +124,7 @@ css: style.css
 
 [![תאונת הדרכים ברחוב הרב הרצוג בגבעת מרדכי](images/Bku0i4T5h_0_0_640_360_0_large.png){fig-alt="(צילום: תיעוד מבצעי מד\"א)"}](https://jerusalem.mynet.co.il/local_news/article/b1hws4pqn)
 
-![](images/HJhe3VTcn_0_0_2048_1536_0_large.jpg)
+![](images/HJhe3VTcn_0_0_2048_1536_0_large.jpg){width="80vw"}
 
 [![בית הנוער העברי, 1968](images/16251933_1754052514912954_3850712775828282121_o.jpg){fig-alt="אוסף אלכסנדר פרידמן (האדריכל)"}](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1754052514912954/)
 
@@ -79,3 +133,34 @@ css: style.css
 [![קטמון ט, 1968](images/11904749_1492257441092464_7451189464270408324_n.jpg)](https://www.facebook.com/alhamakom/photos/a.1490591467925728/1492257441092464/)
 
 [![צומת פת, שנות ה-80](images/886214_1540688922915982_1861906541522812876_o.jpg){fig-alt="דוד חריס"}](https://www.facebook.com/photo/?fbid=1540688922915982&set=pcb.1540694082915466)
+
+```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Embedded Content with VW Units</title>
+<style>
+  /* Style the iframe with fixed width and height */
+  iframe {
+    width: 100%; /* Adjust as needed */
+    height: 500px; /* Adjust as needed */
+    border: none;
+  }
+
+  /* Style the content inside the iframe with VW units */
+  .content {
+    width: 80vw; /* 90% of the viewport width */
+    padding: 0vw; /* 2% of the viewport width */
+    font-size: 4vw; /* 4% of the viewport width */
+  }
+</style>
+</head>
+<body>
+
+<iframe src="https://www.govmap.gov.il/map.html?bb=1&zb=1&in=1&c=219448.85,630491.38&z=3&b=7'"></iframe>
+
+</body>
+</html>
+```
